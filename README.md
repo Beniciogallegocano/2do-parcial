@@ -1,2 +1,2 @@
 # 2do-parcial
-algoritmos y estructuras d dato
+algoritmos y estructuras de datos
